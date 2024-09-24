@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406645228158",
+    "project_id": "tokey-9c1a0",
+    "storage_bucket": "tokey-9c1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406645228158:android:221182d8977644a6cb0e2f",
+        "android_client_info": {
+          "package_name": "com.tokey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AYPSaCv_04JRHV6lv-5yF5B22AY99ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
